@@ -27,11 +27,14 @@
            android:clickable="true"
            android:text="좋아요"/>
 
-       <Button
+       <TextView
            android:layout_marginLeft="2dp"
            android:layout_width="0dp"
            android:layout_height="wrap_content"
            android:layout_weight="1"
+           android:background="@drawable/blue_round_rect"
+           android:gravity="center"
+           android:clickable="true"
            android:text="싫어요"/>
 
 
